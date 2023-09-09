@@ -17,7 +17,7 @@ pip install requests
 Run the script using Python:
 
 ```bash
-python script_name.py [destination_folder]
+python get_bitbucket_repo.py [destination_folder]
 ```
 
 ## Arguments
