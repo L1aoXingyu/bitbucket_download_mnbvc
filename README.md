@@ -5,7 +5,7 @@ This script automates the process of cloning all repositories from a Bitbucket a
 
 ## Dependencies
 - Python 3.x
-- `requests`` library
+- `requests` library
 
 Install the dependencies using pip:
 
@@ -21,7 +21,7 @@ python script_name.py [destination_folder]
 ```
 
 ## Arguments
-`destination_folder`` (optional): The folder where the cloned repositories will be stored. Default is `bitbucket_repo`.
+`destination_folder` (optional): The folder where the cloned repositories will be stored. Default is `bitbucket_repo`.
 
 ## Limitations
 - The script currently does not support authenticated requests. As such, it can only clone public repositories.
